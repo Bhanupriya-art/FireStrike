@@ -10,6 +10,14 @@ Survive as long as possible, defeat enemies, collect ammo/health, and push for h
 
 ---
 
+## 📂 Project Files & Google Drive
+
+Complete Unity project, assets, and builds are available here:
+
+**Google Drive Link:** _[Link](https://drive.google.com/drive/folders/16Tt8NM_xor8pFxvXGORiywDbWnt-9U2B?usp=sharing)_
+
+---
+
 ## Key Features
 - **Smooth FPS Controller**  
   - Walking, sprinting, jumping, and mouse-based aiming
@@ -64,14 +72,6 @@ Survive as long as possible, defeat enemies, collect ammo/health, and push for h
 <img width="742" height="415" alt="Screenshot 2025-12-05 at 4 14 12 PM" src="https://github.com/user-attachments/assets/5a325e6e-364c-4b42-8ce4-85cd1413e629" />
 <img width="520" height="521" alt="Screenshot 2025-12-05 at 4 15 50 PM" src="https://github.com/user-attachments/assets/fc12a0f1-f14c-4afd-8f8b-ca1d6858057c" />
 
-
----
-
-## 📂 Project Files & Google Drive
-
-Complete Unity project, assets, and builds are available here:
-
-**Google Drive Link:** _[Link](https://drive.google.com/drive/folders/16Tt8NM_xor8pFxvXGORiywDbWnt-9U2B?usp=sharing)_
 
 ---
 
